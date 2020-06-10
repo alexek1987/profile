@@ -1,0 +1,35 @@
+body{
+  background: rgb(245,245,245);
+  color: rgb(20, 20, 20);
+  font-family:  'Roboto', sans-serif;
+}
+h1{
+  font-family:  'Roboto', sans-serif;
+  color: gray;
+  font-weight: lighter;
+  font-size: 50px;
+}
+h2 {
+  font-family:  'Roboto', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: 35px;
+}
+a {
+  color: purple;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+
+div {
+  background: white;
+  padding-right: 30px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  width: 660px;
+  margin: 24px 20px;
+  text-align: center;
+}
